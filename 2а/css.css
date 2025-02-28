@@ -1,0 +1,25 @@
+.h{
+    text-align: center;
+    color: aliceblue;
+    background-color: black;
+    width: 636px;
+    height: 116
+    ;
+    margin: auto;
+}
+.box{
+    width: 666;
+    height: 500px;
+    background-color: black;
+    border: 7px solid #f30909;
+}
+.text{
+    color: aliceblue;
+    width: 999px;
+    height: 200px;   
+    background-color: rgb(34, 219, 105);
+    padding: 3px;   
+    text-align: center;
+    padding: 5px;
+
+}
